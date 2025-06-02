@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>Gunayatan Gatepass Favicon</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#2c3e50" x="0" y="0" width="32" height="32" rx="4"></rect>
+        <g transform="translate(6, 7)">
+            <!-- Stylized G for Gunayatan and Gate -->
+            <path d="M12,0 C16.418,0 20,3.582 20,8 C20,12.418 16.418,16 12,16 L0,16 L0,14 L12,14 C15.314,14 18,11.314 18,8 C18,4.686 15.314,2 12,2 C9.908,2 8.026,3.149 6.999,4.8 L9,4.8 L9,6.8 L4,6.8 L4,1.8 L6,1.8 L6,3.436 C7.364,1.345 9.582,0 12,0 Z" 
+                  fill="#3498db" fill-rule="nonzero"></path>
+            <!-- ID Card Icon -->
+            <path d="M2.5,7 L5.5,7 C6.328,7 7,7.672 7,8.5 L7,16.5 C7,17.328 6.328,18 5.5,18 L2.5,18 C1.672,18 1,17.328 1,16.5 L1,8.5 C1,7.672 1.672,7 2.5,7 Z M4,10 C3.448,10 3,10.448 3,11 C3,11.552 3.448,12 4,12 C4.552,12 5,11.552 5,11 C5,10.448 4.552,10 4,10 Z M4,13 C3.172,13 2.5,13.672 2.5,14.5 L2.5,16 L5.5,16 L5.5,14.5 C5.5,13.672 4.828,13 4,13 Z" 
+                  fill="#ffffff" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>
